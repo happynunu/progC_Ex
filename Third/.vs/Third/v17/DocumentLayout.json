@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.Lecture\\23_KDT_ICN\\C_Prog_Lyo\\Third\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CF7538-F921-48AB-9E1C-CF625ECB91BD}|Third.vcxproj|C:\\1.Lecture\\23_KDT_ICN\\C_Prog_Lyo\\Third\\Third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2CF7538-F921-48AB-9E1C-CF625ECB91BD}|Third.vcxproj|solutionrelative:Third.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Third.c",
+              "DocumentMoniker": "C:\\1.Lecture\\23_KDT_ICN\\C_Prog_Lyo\\Third\\Third.c",
+              "RelativeDocumentMoniker": "Third.c",
+              "ToolTip": "C:\\1.Lecture\\23_KDT_ICN\\C_Prog_Lyo\\Third\\Third.c",
+              "RelativeToolTip": "Third.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-01T05:46:03.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
